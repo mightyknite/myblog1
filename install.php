@@ -1,5 +1,5 @@
 <?php
-//Some rem
+
 define ('MYBLOG', 1);
 
 require './classes/db.php';
