@@ -1,0 +1,10 @@
+MIME-Version: 1.0
+Content-type: text/html; charset=utf-8
+To: asfsadf <mw2@gala.net>
+From: MyBlog <no-reply@example.com>
+
+mw2@gala.net
+Восстановление пароля
+<p>Чтобы восстановить пароль перейдите по ссылке:</p>
+<a href="http://localhost/?user/newpass/6bd0fc0220d98ddb3f9942f3563fa820">http://localhost/?user/newpass/6bd0fc0220d98ddb3f9942f3563fa820</a>
+<p>Ссылка будет жива сутки</p>
