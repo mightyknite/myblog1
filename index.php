@@ -1,5 +1,4 @@
 <?php
-//Remark
 
 define ('MYBLOG', 1);
 
@@ -14,7 +13,7 @@ spl_autoload_register(function ($class_name)
 
     require_once $file;
 });
-//More Remark
+
 require './classes/db.php';
 
 session_start();

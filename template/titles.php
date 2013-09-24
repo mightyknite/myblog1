@@ -18,7 +18,7 @@
        margin-right: 10px;
     }</style>
 <?php
-
+//Rem
 echo '<h1>' . $this->title . '</h1>';
 if (isset($this->list)) {
     foreach($this->list as $key=>$value){
